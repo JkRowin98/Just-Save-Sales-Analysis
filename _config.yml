@@ -1,0 +1,17 @@
+# _config.yml
+title: "Just Save Sales Data Analysis"
+description: "A portfolio project showcasing data analysis on sales data from a retailer."
+theme: minima # Or any theme you'd like to use
+url: "https://yourusername.github.io/Just-Save-Sales-Analysis"
+baseurl: "/Just-Save-Sales-Analysis" # The repository name if hosting on GitHub Pages
+markdown: kramdown
+
+# Optional customizations
+author:
+  name: "Joseph Kilonzo"
+  email: "jkilonzo369@gmail.com"
+  
+# Social links (if applicable)
+social:
+  github: yourusername
+  x:yourusername
